@@ -1,0 +1,22 @@
+body{
+    background: url(/images/d25749108797191.5fc5eab3013b7.jpg) no-repeat center center fixed;
+    background-size: 100vw;
+    position: relative;
+
+}
+#player{
+    position: absolute;
+    width: 20vw;
+    height: 20vh;
+    top:10vh;
+}
+#play_game {
+    width: 20vw;
+    height: 20vh;
+    position: fixed;
+    left: 38vw;
+    top: 40vh;
+    font-size: 430%; 
+    border: 5px solid black;   
+    background: linear-gradient(to right,#d65ed0, #00ffff, #bd57ad);
+}
